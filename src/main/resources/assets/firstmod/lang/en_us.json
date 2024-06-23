@@ -1,4 +1,9 @@
 {
   "item.firstmod.penis": "Penis",
-  "item.firstmod.uranium": "Uranium"
+  "item.firstmod.uranium": "Uranium",
+  "item.firstmod.raw_uranium": "Raw Uranium",
+  "block.firstmod.uranium_block": "Block of Uranium",
+  "block.firstmod.uranium_ore": "Uranium Ore",
+  "block.firstmod.nuke": "Nuke",
+  "block.firstmod.deepslate_uranium_ore": "Deepslate Uranium Ore"
 }
