@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "S#S",
+    "#T#",
+    "S#S"
+  ],
+  "key": {
+  "#": {
+    "item": "minecraft:nether_star"
+  },
+  "S": {
+    "item": "minecraft:netherite_block"
+  },
+  "T": {
+    "item": "minecraft:command_block"
+  }
+},
+  "result": {
+    "item": "firstmod:op_block",
+    "count": 1
+  }
+}

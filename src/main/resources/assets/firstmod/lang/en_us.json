@@ -5,5 +5,8 @@
   "block.firstmod.uranium_block": "Block of Uranium",
   "block.firstmod.uranium_ore": "Uranium Ore",
   "block.firstmod.nuke": "Nuke",
-  "block.firstmod.deepslate_uranium_ore": "Deepslate Uranium Ore"
+  "block.firstmod.deepslate_uranium_ore": "Deepslate Uranium Ore",
+  "block.firstmod.raw_uranium_block": "Block of Raw Uranium",
+  "item.firstmod.uranium_detector": "Uranium Detector",
+  "block.firstmod.op_block": "Op Block"
 }

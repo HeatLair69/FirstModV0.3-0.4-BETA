@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "firstmod:uranium_block",
-    "firstmod:uranium_ore",
-    "firstmod:deepslate_uranium_ore"
+    "firstmod:uranium_block"
   ]
 }

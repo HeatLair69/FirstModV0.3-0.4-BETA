@@ -3,15 +3,18 @@
   "pools": [
     {
       "bonus_rolls": 0.0,
-      "conditions": {
-        "condition": "minecraft:survives_explosion"
-      }
-    }
-  ],
-  "entries": [
-    {
-      "type": "minecraft:item",
-      "name": "firstmod:uranium_block"
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "firstmod:uranium_block"
+        }
+      ],
+      "rolls": 1.0
     }
   ]
 }
