@@ -8,5 +8,9 @@
   "block.firstmod.deepslate_uranium_ore": "Deepslate Uranium Ore",
   "block.firstmod.raw_uranium_block": "Block of Raw Uranium",
   "item.firstmod.uranium_detector": "Uranium Detector",
-  "block.firstmod.op_block": "Op Block"
+  "block.firstmod.op_block": "Op Block",
+  "item.firstmod.condoms": "Condoms",
+  "block.firstmod.black_matter": "Black Matter",
+  "tooltip.item.firstmod.uranium_detector": "Right click to show uranium ores",
+  "item.firstmod.porcupine_spawn_egg": "Porcupine Spawn Egg"
 }
